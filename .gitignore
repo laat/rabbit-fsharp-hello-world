@@ -1,3 +1,7 @@
+#Paket dependency manager
+.paket/
+paket-files/
+packages
 
 # Created by https://www.gitignore.io/api/visualstudiocode,fsharp
 # Edit at https://www.gitignore.io/?templates=visualstudiocode,fsharp
@@ -26,3 +30,6 @@ bin
 .history
 
 # End of https://www.gitignore.io/api/visualstudiocode,fsharp
+
+### IonIDE
+.ionide
